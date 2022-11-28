@@ -1,6 +1,6 @@
 # Webbtjänst för Discgolfbutiken
 
-av Jessica Ejelöv, jeej2100@student.miun.se
+av Jessica Ejelöv, jessicaejelov@gmail.com
 Projektuppgift för kursen Fullstack-utveckling med ramverk på Mittuniversitetet.
 Skapad med Laravel.
 
