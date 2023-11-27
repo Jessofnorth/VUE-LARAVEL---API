@@ -21,9 +21,6 @@ Denna webbtjänst är uppbyggd med Laravel och en MYSQL databas.
 
 ## Databasen : installation och uppbyggnad
 
-Ladda hem repot via:
-`git clone https://github.com/Webbutvecklings-programmet/projekt---webbtjanst-api-Jessofnorth`
-
 ### ER-diagram för databsen
 
 Produkter kan ha EN(1) Kategori(category), Märke(brand) och Rabatt(discount). Medans Kategorier, Märken och Rabatter kan ha FLERA produkter.
